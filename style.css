@@ -1,0 +1,18 @@
+h1 { 
+    color: red;
+    background-color: blue;
+    width: 400px;
+}
+
+p {
+    font-size: 25px;
+    color: green;
+}
+
+#main {
+    color: blueviolet;
+}
+
+#main1 {
+    color: darkmagenta;
+}
